@@ -1,0 +1,35 @@
+---
+canvas: "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-8"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "#power",
+            "purpose": "tagging",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Group 6"
+            },
+            "created": "2022-03-30T17:48:17.385Z",
+            "modified": "2022-03-30T17:48:19.270Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-8",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3097.034423828125,2768.141845703125,1615.707275390625,434.330078125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5912a446-f95a-4675-a6b5-3b85f2d6f56b.json",
+    "motivation": "commenting"
+}
