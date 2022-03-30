@@ -1,0 +1,45 @@
+---
+canvas: "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-78"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "women with internalized patriarchy and fatphobia starving themselves",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Zain Utterback"
+            },
+            "created": "2022-03-30T17:52:15.583Z",
+            "modified": "2022-03-30T17:52:26.846Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "#patriarchy",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Zain Utterback"
+            },
+            "created": "2022-03-30T17:52:30.418Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-78",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=20.67214584350586,155.3620147705078,1812.5568580627441,1547.1467742919922"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "02d1f720-00b2-4e5b-a43a-d06223942c8f.json",
+    "motivation": "commenting"
+}
