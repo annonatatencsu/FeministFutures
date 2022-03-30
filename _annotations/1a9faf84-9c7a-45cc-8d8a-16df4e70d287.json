@@ -1,0 +1,46 @@
+---
+canvas: "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-22"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Miriam is a patriarchal woman in that she blames herself for her husband cheating instead of recognizing that this is a power play by her ex husband. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Group One"
+            },
+            "created": "2022-03-30T17:43:49.157Z",
+            "modified": "2022-03-30T17:44:38.783Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "#patriarchy",
+            "purpose": "tagging",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Group One"
+            },
+            "created": "2022-03-30T17:45:19.935Z",
+            "modified": "2022-03-30T17:45:23.636Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-22",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2966.80517578125,1963.87158203125,549.47705078125,488.424072265625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1a9faf84-9c7a-45cc-8d8a-16df4e70d287.json",
+    "motivation": "commenting"
+}
