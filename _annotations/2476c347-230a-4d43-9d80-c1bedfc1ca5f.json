@@ -1,0 +1,46 @@
+---
+canvas: "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-7"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Woman who has internalized patriarchy to the point where she feels she must apologize for her existence",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Zain Utterback"
+            },
+            "created": "2022-03-30T17:41:16.150Z",
+            "modified": "2022-03-30T17:41:39.122Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "#patriarchy",
+            "purpose": "tagging",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Zain Utterback"
+            },
+            "created": "2022-03-30T17:41:42.274Z",
+            "modified": "2022-03-30T17:41:47.405Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-7",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=167.77964782714844,193.171630859375,2644.6790924072266,1810.63623046875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2476c347-230a-4d43-9d80-c1bedfc1ca5f.json",
+    "motivation": "commenting"
+}
