@@ -1,0 +1,46 @@
+---
+canvas: "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-49"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "This represents organizing resistance as these women are likely training to strengthen themselves to revoke against the leaders of bitch planet",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Group One"
+            },
+            "created": "2022-03-30T17:49:23.588Z",
+            "modified": "2022-03-30T17:49:56.356Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "#resist",
+            "purpose": "tagging",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Group One"
+            },
+            "created": "2022-03-30T17:49:59.581Z",
+            "modified": "2022-03-30T17:50:01.936Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-49",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=722.997314453125,1494.734375,2016.24609375,1176.1435546875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "49e6a40f-9e53-4b08-b458-bd38dc1b92d9.json",
+    "motivation": "commenting"
+}
