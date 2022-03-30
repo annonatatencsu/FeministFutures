@@ -1,0 +1,46 @@
+---
+canvas: "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-12"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "This relates technology and power in that in this frame a powerful woman is holographically portrayed. She is a representation of power due to her drastic, colonial features. It also relates to heterosexuality as this woman was very much made for the male gaze to shame women for their natural bodies.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Group One"
+            },
+            "created": "2022-03-30T17:38:31.159Z",
+            "modified": "2022-03-30T17:40:29.945Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "#Power",
+            "purpose": "tagging",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Group One"
+            },
+            "created": "2022-03-30T17:40:53.457Z",
+            "modified": "2022-03-30T17:40:58.017Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-12",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1574.4312744140625,2535.466064453125,764.9302978515625,764.93017578125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a2c1c46a-395b-42f5-8735-8e2fcd01bf10.json",
+    "motivation": "commenting"
+}
