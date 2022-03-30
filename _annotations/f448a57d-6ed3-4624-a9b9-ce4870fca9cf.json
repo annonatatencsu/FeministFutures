@@ -1,0 +1,35 @@
+---
+canvas: "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-41"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "This panel encapsulates bitch planet in that 5e hologram woman is blaming Kam for the downfall of another woman when it was actually the system that failed her. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Group One"
+            },
+            "created": "2022-03-30T17:52:24.067Z",
+            "modified": "2022-03-30T17:53:19.691Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-41",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2562.488037109375,4330.81396484375,903.80322265625,626.5"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f448a57d-6ed3-4624-a9b9-ce4870fca9cf.json",
+    "motivation": "commenting"
+}
