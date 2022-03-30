@@ -1,0 +1,45 @@
+---
+canvas: "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-21"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Penny refuses to conform to the prison\u2019s fatphobic standards",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Zain Utterback"
+            },
+            "created": "2022-03-30T17:45:47.037Z",
+            "modified": "2022-03-30T17:46:07.268Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "#resist",
+            "purpose": "tagging",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Zain Utterback"
+            },
+            "created": "2022-03-30T17:46:09.295Z",
+            "modified": "2022-03-30T17:46:12.294Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-21",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"1286.6455993652344\" cy=\"4986.177734375\" r=\"731.2972053147797\"></circle></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f780bef4-a5ce-4b58-8584-a9083334d144.json",
+    "motivation": "commenting"
+}
