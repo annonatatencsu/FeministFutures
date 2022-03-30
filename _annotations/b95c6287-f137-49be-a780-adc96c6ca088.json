@@ -1,0 +1,46 @@
+---
+canvas: "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-69"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "it\u2019s giving girl boss",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Zain Utterback"
+            },
+            "created": "2022-03-30T17:56:17.389Z",
+            "modified": "2022-03-30T17:56:31.548Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "#patriarchy",
+            "purpose": "tagging",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Zain Utterback"
+            },
+            "created": "2022-03-30T17:56:41.637Z",
+            "modified": "2022-03-30T17:56:48.441Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-69",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=514.82275390625,253.1050567626953,1148.70751953125,1499.1606903076172"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b95c6287-f137-49be-a780-adc96c6ca088.json",
+    "motivation": "commenting"
+}
