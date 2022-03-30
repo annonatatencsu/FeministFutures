@@ -1,0 +1,34 @@
+---
+canvas: "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-78"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "#patriarchy",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Group 6"
+            },
+            "created": "2022-03-30T17:50:12.980Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-78",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=909.5494995117188,506.6077575683594,705.1432495117188,225.91964721679688"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "169c989d-e91c-4bd2-a312-3c4cba5caf36.json",
+    "motivation": "commenting"
+}
