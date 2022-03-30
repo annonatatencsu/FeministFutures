@@ -1,0 +1,46 @@
+---
+canvas: "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-82"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Penny fully represents the antithesis to patriarchy and happy with it, and that fully represents Bitch Planet as a concept and a story",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Zain Utterback"
+            },
+            "created": "2022-03-30T17:53:45.439Z",
+            "modified": "2022-03-30T17:54:17.821Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "#vibes",
+            "purpose": "tagging",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "Zain Utterback"
+            },
+            "created": "2022-03-30T17:54:21.282Z",
+            "modified": "2022-03-30T17:54:22.948Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/canvas/bitchplanet-82",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=-44.25812911987305,231.75949096679688,4071.241527557373,3043.774688720703"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b61ebeaa-a38b-4ab3-95f7-b4240594ca94.json",
+    "motivation": "commenting"
+}
