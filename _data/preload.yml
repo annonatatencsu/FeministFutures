@@ -1,7 +1,9 @@
 images:
-- ''
-manifests:
-- https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/manifest.json
+- iiif: true
+  thumbnail: https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/BitchPlanetVol10/full/full/0/default.jpg
+  title:
+  - en:
+    - Bitch Planet
+  url: https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet/manifest.json
 settings:
   tempuser: 'True'
-  viewer: default
